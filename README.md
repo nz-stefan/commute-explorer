@@ -1,6 +1,6 @@
 # Commute Explorer
 
-This R Shiny application was submitted to the [There and back again - data visualisation competition](https://www.stats.govt.nz/2018-census/there-and-back-again-data-visualisation-competition/) hosted by Statistics NZ.
+This R Shiny application was submitted to the [There and back again - data visualisation competition](https://www.stats.govt.nz/2018-census/there-and-back-again-data-visualisation-competition/) hosted by Statistics NZ. Check out the running app online: [https://nz-stefan.shinyapps.io/commute-explorer/](https://nz-stefan.shinyapps.io/commute-explorer/).
 
 ![screenshot.png](https://github.com/nz-stefan/commute-explorer/blob/master/screenshot.png)
 
