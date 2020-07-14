@@ -1,0 +1,3 @@
+PROJECT_NAME=commute-explorer
+DOCKER_IMAGE=project/commute-explorer
+DOCKER_PORT=8792   # <---- change port here to avoid clashes with other Rstudio containers

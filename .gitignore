@@ -1,0 +1,5 @@
+.*
+renv/library
+renv/staging
+data
+app/rsconnect
